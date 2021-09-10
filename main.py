@@ -74,7 +74,7 @@ bot.follow()
 
 # Unfollow
 
-# driver = webdriver.Chrome(executable_path='/Users/poppopgd/Development/chromedriver')
+# driver = webdriver.Chrome(executable_path=CHROME_DRIVER_PATH)
 #
 # driver.get('https://www.instagram.com/accounts/login/')
 # sleep(2)
