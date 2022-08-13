@@ -1,3 +1,2 @@
 # INSTAGRAM FOLLOWER
-
-Selenium practice
+Selenium practice. 🤡
